@@ -1,0 +1,17 @@
+.button {
+  $size: #{rem(40)};
+  border-radius: 50%;
+  border: var(--border);
+  width:  $size;
+  height: $size;
+  user-select: none;
+
+  @include hover {
+    color: var(--color-accent);
+    border-color: var(--color-accent);
+  }
+
+  &:active {
+    transform: translateY(3px);
+  }
+}

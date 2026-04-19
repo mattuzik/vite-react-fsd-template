@@ -1,0 +1,21 @@
+:root {
+  --color-light: #FFF;
+  --color-dark: #0d0d11;
+  --color-gray: #636363;
+  --color-accent: #0044ff;
+
+  --font-family-base: "Roboto", sans-serif;
+
+  --border: #{rem(1)} solid var(--color-dark);
+
+  --shadow: 0 0 0 #{rem(3)} var(--color-dark);
+
+  --container-width: #{rem(1600)};
+  --container-padding-x: #{rem(10)};
+
+  --transition-duration: 0.2s;
+
+  @include laptop {
+    --container-width: #{rem(1280)};
+  }
+}

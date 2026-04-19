@@ -1,2 +1,3 @@
 # Fsd template
-Feature-sliced-design template with react, typescript, redux && redux toolkit, vite, eslint.
+Feature-sliced-design template: React, TypeScript, Redux && Redux Toolkit, Vite, eslint.
+There's simple counter for example

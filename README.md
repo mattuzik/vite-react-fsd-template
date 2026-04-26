@@ -29,7 +29,12 @@
 
 ## 🚀 Быстрый старт
 
-### Установка
+### Установка шаблона
+```bash
+git clone https://github.com/mattuzik/vite-react-redux-fsd-template
+```
+
+### Установка зависимостей
 ```bash
 npm install
 ```

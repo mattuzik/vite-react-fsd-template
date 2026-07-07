@@ -31,7 +31,7 @@ The project strictly follows the **Feature-Sliced Design** layers:
 
 ### Clone the repository
 ```bash
-git clone https://github.com/mattuzik/vite-react-redux-fsd-template
+git clone https://github.com/nfluvv/vite-react-redux-fsd-template
 ```
 
 ### Install dependencies
